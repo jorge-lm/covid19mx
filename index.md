@@ -13,7 +13,9 @@ jorge-lm.github.io/covid19mx/
 ### CASOS CONFIRMADOS ACUMUADOS
 Datos de Enero de 2020 a Marzo de 2021
 
-Confirmados 
+Confirmados
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
